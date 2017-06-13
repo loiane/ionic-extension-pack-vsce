@@ -1,5 +1,8 @@
 # VS Code Ionic Extension Pack
 
+[![Version](http://vsmarketplacebadge.apphb.com/version/loiane.ionic-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.ionic-extension-pack)
+[![Installs](http://vsmarketplacebadge.apphb.com/installs/loiane.ionic-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.ionic-extension-pack)
+
 This extension pack packages some of the most popular (and some I find very useful) VS Code Ionic (2.x and 3.x) extensions.
 
 ## Extensions Included
