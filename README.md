@@ -1,5 +1,7 @@
 # VS Code Ionic Extension Pack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/loiane/ionic-extension-pack-vsce.svg)](https://greenkeeper.io/)
+
 [![Version](http://vsmarketplacebadge.apphb.com/version/loiane.ionic-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.ionic-extension-pack)
 [![Installs](http://vsmarketplacebadge.apphb.com/installs/loiane.ionic-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.ionic-extension-pack)
 
