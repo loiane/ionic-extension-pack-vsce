@@ -2,12 +2,12 @@
     "name": "ionic-extension-pack",
     "displayName": "Ionic Extension Pack",
     "description": "This extension pack packages some of the most popular (and some I find very useful) VS Code Ionic (2.x and 3.x) extensions.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "loiane",
     "icon": "ionic-icon.png",
     "repository": "https://github.com/loiane/ionic-extension-pack-vsce",
     "engines": {
-        "vscode": "^1.12.0"
+        "vscode": "^1.26.0"
     },
     "keywords" : [
         "Ionic",
@@ -18,7 +18,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [ 
+    "extensionPack": [ 
         "Thavarajan.ionic2",
         "danielehrhardt.ionic3-vs-ionView-snippets",
         "jgw9617.ionic2-vscode",
@@ -31,6 +31,7 @@
         "steoates.autoimport",
         "robertohuertasm.vscode-icons",
         "johnpapa.Angular2",
-        "UVBrain.Angular2"
+        "UVBrain.Angular2",
+        "cyrilletuzi.angular-schematics"
     ]
 }

@@ -12,7 +12,8 @@ This extension pack packages some of the most popular (and some I find very usef
 * [Angular v4 TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 * [Angular 2, 4 and upcoming latest TypeScript HTML Snippets](https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2)
 * [rxjs-snippets](https://marketplace.visualstudio.com/items?itemName=pkosta2006.rxjs-snippets)
-
+ * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - this extension allows you to launch Angular schematics (CLI commands) from files Explorer (right-click) or Command Palette.
+ 
 ### Cordova (Debug + Emulator)
 
 * [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
