@@ -2,7 +2,7 @@
     "name": "ionic-extension-pack",
     "displayName": "Ionic Extension Pack",
     "description": "This extension pack packages some of the most popular (and some I find very useful) VS Code Ionic (2.x and 3.x) extensions.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "loiane",
     "icon": "ionic-icon.png",
     "repository": "https://github.com/loiane/ionic-extension-pack-vsce",
