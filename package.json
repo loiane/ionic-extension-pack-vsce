@@ -5,6 +5,7 @@
     "version": "0.1.1",
     "publisher": "loiane",
     "icon": "ionic-icon.png",
+    "license": "SEE LICENSE IN LICENSE.md",
     "repository": "https://github.com/loiane/ionic-extension-pack-vsce",
     "engines": {
         "vscode": "^1.26.0"
