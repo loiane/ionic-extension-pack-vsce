@@ -2,7 +2,7 @@
     "name": "ionic-extension-pack",
     "displayName": "Ionic Extension Pack",
     "description": "This extension pack packages some of the most popular (and some I find very useful) VS Code Ionic (2.x and 3.x) extensions.",
-    "version": "0.1.1",
+    "version": "0.2.2",
     "publisher": "loiane",
     "icon": "ionic-icon.png",
     "license": "SEE LICENSE IN LICENSE.md",
@@ -14,7 +14,8 @@
         "Ionic",
         "Ionic Framework",
         "Ionic 2",
-        "Ionic 3"
+        "Ionic 3",
+        "Ionic 4"
     ],
     "categories": [
         "Extension Packs"
@@ -28,7 +29,6 @@
         "Angular.ng-template",
         "formulahendry.auto-rename-tag",
         "formulahendry.auto-close-tag",
-        "abusaidm.html-snippets",
         "steoates.autoimport",
         "robertohuertasm.vscode-icons",
         "johnpapa.Angular2",
