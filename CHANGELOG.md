@@ -3,6 +3,10 @@ All notable changes to the "ionic-extension-pack" extension pack will be documen
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## 0.3.0 - 2021-August-18
+- Removed [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.cordova-tools)
+- Removed [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+
 ## 0.2.2 - 2019-March-06
 - Removed [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - deprecated extension, no longer maintained.
 
